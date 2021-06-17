@@ -1,0 +1,65 @@
+{
+  "_from": "mydatepicker-th",
+  "_id": "mydatepicker-th@0.1.1",
+  "_inBundle": false,
+  "_integrity": "sha1-zDhp8ymIWkhWLjTkE4IoAAdhJfM=",
+  "_location": "/mydatepicker-th",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "mydatepicker-th",
+    "name": "mydatepicker-th",
+    "escapedName": "mydatepicker-th",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://repomgt.tiscogroup.com/artifactory/api/npm/npm/mydatepicker-th/-/mydatepicker-th-0.1.1.tgz",
+  "_shasum": "cc3869f329885a48562e34e413822800076125f3",
+  "_spec": "mydatepicker-th",
+  "_where": "Z:\\ZTanawat\\My Documents\\bantao-star\\app-forms\\client",
+  "author": {
+    "name": "Satit Rianpit"
+  },
+  "bugs": {
+    "url": "https://github.com/siteslave/mydatepicker-th/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Angular date picker (TH)",
+  "devDependencies": {},
+  "files": [
+    "index.d.ts",
+    "index.js",
+    "LICENSE",
+    "FONT-LICENSE",
+    "package.json",
+    "README.md",
+    "dist",
+    "bundles"
+  ],
+  "homepage": "https://github.com/siteslave/mydatepicker-th#readme",
+  "keywords": [
+    "Angular2",
+    "Angular4",
+    "date picker",
+    "Thai locale"
+  ],
+  "license": "MIT",
+  "main": "bundles/mydatepicker.umd.js",
+  "module": "index.js",
+  "name": "mydatepicker-th",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siteslave/mydatepicker-th.git"
+  },
+  "scripts": {},
+  "typings": "index.d.ts",
+  "version": "0.1.1"
+}
